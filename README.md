@@ -1,3 +1,8 @@
+## Participantes
+
+- [@ManuelaSuarez](https://github.com/ManuelaSuarez)
+- [@NachoIgartua2](https://github.com/NachoIgartua2)
+
 ![diagrama uml](uml/ejercicio7-uml.png)
 # Ejercicio Estadísticas de exámenes de conducir
 
